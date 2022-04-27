@@ -1,0 +1,31 @@
+SERVER: 10.95.75.135
+login: server
+password: 1q4w7e2A5S8D
+
+login: ROOT
+password: 1q4w7e2A5S8D
+
+RSTUDIO:
+login: gryaznov
+password: 147258369
+
+login: sheglov
+password: 1q4a7z2w5s8x
+
+login: kovalev
+password: 147258369
+
+
+SQL server
+login: RETAIL
+password: alladin75
+
+login: Risk
+password: Risk123
+
+
+
+GIT
+login: a.kuzmichev_dev
+password: pmxx7a5S
+
